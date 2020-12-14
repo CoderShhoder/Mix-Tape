@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+}
+.container-fluid{
+    display: flex;
+    background:url('Images/BG/BG1.PNG');
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-blend-mode:color-burn;
+}
+h1{
+    font-family: bubblegum Sans;
+    padding: 2px;
+
+}
+i{
+    padding: 10px;
+    font-size: 20px;
+}
+#box1{
+    background:url('Images/B1.jpg');
+    background-size: cover;
+    background-position: top;
+    height:200px;
+    width:120px;
+    border: 1.5px solid white;
+}
+#box1:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: 1;
+    transition: 0.5s ease-in-out;
+}
+#box2{
+    background:url('Images/B2.jpg');
+    background-size: contain;
+    background-position: center;
+    height:200px;
+    width:120px;
+    border: 1.5px solid white;
+}
+#box2:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: 1;
+    transition: 0.5s ease-in-out;
+}
+#box3{
+    background:url('Images/B3.jpg');
+    background-size: contain;
+    background-position: center;
+    height:200px;
+    width:120px;
+    border: 1.5px solid white;
+}
+#box3:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: 1;
+    transition: 0.5s ease-in-out;
+}
+#box4{
+    background:url('Images/B4.jpg');
+    background-size: cover;
+    background-position: center;
+    height:200px;
+    width:120px;
+    border: 1.5px solid white;
+}
+#box4:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: 1;
+    transition: 0.5s ease-in-out;
+}
+#box5{
+    background:url('Images/B5.jpg');
+    background-size: cover;
+    background-position: center;
+    height:200px;
+    width:120px;
+    border: 1.5px solid white;
+}
+#box5:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: 1;
+    transition: 0.5s ease-in-out;
+}
+#box6{
+    background:url('Images/B6.jpg');
+    background-size: cover;
+    background-position: center;
+    height:200px;
+    width:120px;
+    border: 1.5px solid white;
+}
+#box6:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: 1;
+    transition: 0.5s ease-in-out;
+}
+#box7{
+    background:url('Images/B7.jpg');
+    background-size: cover;
+    background-position: center;
+    height:200px;
+    width:120px;
+    border: 1.5px solid white;
+}
+#box7:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: 1;
+    transition: 0.5s ease-in-out;
+}
+#box8{
+    background:url('Images/B10.jpg');
+    background-size:cover;
+    background-position: center;
+    height:200px;
+    width:120px;
+    border: 1.5px solid white;
+}
+#box8:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: 1;
+    transition: 0.5s ease-in-out;
+}
+#box9{
+    background:url('Images/B8.jpg');
+    background-size:cover;
+    background-position: center;
+    height:200px;
+    width:120px;
+    border: 1.5px solid white;
+}
+#box9:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: 1;
+    transition: 0.5s ease-in-out;
+}
